@@ -1,0 +1,7 @@
+Package: backend-api
+Version: 1.0.0
+Section: web
+Priority: optional
+Architecture: amd64
+Maintainer: devops <devops@example.com>
+Description: Backend API service for caching layer project
